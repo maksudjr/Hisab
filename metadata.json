@@ -1,0 +1,6 @@
+{
+  "name": "Hishab - Expense Tracker",
+  "description": "A modern, bilingual (English/Bangla) accounting app with expense tracking, loan management, and a built-in calculator. Stores all data locally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
